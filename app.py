@@ -10,8 +10,8 @@ st.info("Select a document below to download the official PDF.")
 files = {
     "1. NRM 1: Order of cost estimating": "nrm1.pdf",
     "2. NRM 2: Detailed measurement": "nrm2.pdf",
-    "3. FIDIC 1999 (Red Book)": "fidic_1999.pdf",
-    "4. SLS573 ": "SLS-573.pdf"
+    "3. NRM 1: Order of cost estimating": "nrm1.pdf"",
+    "4. NRM 1: Order of cost estimating": "nrm1.pdf""
 }
 
 
