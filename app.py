@@ -8,10 +8,10 @@ st.info("Select a document below to download the official PDF.")
 
 
 files = {
-    "1. NRM 1: Order of cost estimating": "nrm1.pdf",
-    "2. NRM 2: Detailed measurement": "nrm2.pdf",
-    "3. NRM 1: Order of cost estimating": "nrm1.pdf"",
-    "4. NRM 1: Order of cost estimating": "nrm1.pdf""
+    "1. NRM 1: Order of cost estimating": "NRM 1.pdf",
+    "2. NRM 2: Detailed measurement": "NRM 2 (2021).pdf",
+    "3. NRM 1: Order of cost estimating": "NRM 1.pdf",
+    "4. NRM 1: Order of cost estimating": "NRM 1.pdf"
 }
 
 
